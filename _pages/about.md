@@ -5,15 +5,20 @@ author_profile: true
 ---
 
 ## Education
+* Ph.D. in Electrical Engineering, Federal University of Espírito Santo (UFES), 2025 (expected)
+* M.Sc. in Electrical Engineering, Federal University of Espírito Santo (UFES), 2020
+* B.Sc. in Electrical Engineering, Universidade Vila Velha (UVV), 2018
+
+<!-- ## Education
 * Ph.D in Inductive Power Transfer Systems, GitHub University, 2024 (expected)
 * M.S. in Power Electronics, GitHub University, 2018
-* B.S. in Electrical Engineering, GitHub University, 2014
+* B.S. in Electrical Engineering, GitHub University, 2014 -->
 
-## Work Experience
+<!-- ## Work Experience
 * Research Assistant, GitHub University (2018 - Present)
   * Focused on wireless energy transfer and converter design.
 * Electrical Engineer, Sustainable Energy Solutions (2014 - 2018)
-  * Developed embedded systems for renewable energy projects.
+  * Developed embedded systems for renewable energy projects. -->
 
 ## Skills
 * Wireless Energy Transfer

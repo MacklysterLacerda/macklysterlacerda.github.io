@@ -9,6 +9,20 @@ author_profile: true
 * M.Sc. in Electrical Engineering, Federal University of Espírito Santo (UFES), 2020
 * B.Sc. in Electrical Engineering, Universidade Vila Velha (UVV), 2018
 
+## Skills
+* Inductive Power Transfer (IPT) Systems
+* Power Electronics Converter Design (Buck, Boost, Bidirectional, Resonant)
+* Embedded Systems Programming (TM4C, ESP32/8266, STM32)
+* PCB Design and Prototyping (KiCad, 3D printing integration)
+* Control of PWM Inverters and Power Converters
+* Circuit Simulation (MATLAB/Simulink, PSIM, LTspice)
+* Wireless Data Acquisition and UART Interfaces
+* Signal Conditioning and Analog Front-End Design
+* Technical Writing and Scientific Publishing (LaTeX, IEEE/Elsevier/Springer standards)
+* Backtesting and Strategy Modeling for Cryptocurrency Markets (Python)
+* Teaching and Course Design in Electronics and Engineering Topics
+
+
 <!-- ## Education
 * Ph.D in Inductive Power Transfer Systems, GitHub University, 2024 (expected)
 * M.S. in Power Electronics, GitHub University, 2018
@@ -20,11 +34,11 @@ author_profile: true
 * Electrical Engineer, Sustainable Energy Solutions (2014 - 2018)
   * Developed embedded systems for renewable energy projects. -->
 
-## Skills
+<!-- ## Skills
 * Wireless Energy Transfer
 * Converter Design
 * Embedded Systems
-* Academic Research
+* Academic Research -->
 
 ## Publications
 <ul>

@@ -10,17 +10,35 @@ author_profile: true
 * B.Sc. in Electrical Engineering, Universidade Vila Velha (UVV), 2018
 
 ## Skills
-* Inductive Power Transfer (IPT) Systems
-* Power Electronics Converter Design (Buck, Boost, Bidirectional, Resonant)
-* Embedded Systems Programming (TM4C, ESP32/8266, STM32)
-* PCB Design and Prototyping (KiCad, 3D printing integration)
-* Control of PWM Inverters and Power Converters
-* Circuit Simulation (MATLAB/Simulink, PSIM, LTspice)
-* Wireless Data Acquisition and UART Interfaces
-* Signal Conditioning and Analog Front-End Design
-* Technical Writing and Scientific Publishing (LaTeX, IEEE/Elsevier/Springer standards)
-* Backtesting and Strategy Modeling for Cryptocurrency Markets (Python)
-* Teaching and Course Design in Electronics and Engineering Topics
+
+### Power Electronics and Embedded Systems
+- Inductive Power Transfer (IPT) systems
+- Power converter design (Buck, Boost, Bidirectional, Resonant)
+- Control of PWM inverters and DC-DC converters
+- Signal conditioning and analog circuit design (buffers, op-amps, filtering)
+- Embedded C/C++ and Assembly for microcontrollers (TM4C, STM32, ESP32/8266)
+- VHDL and Verilog programming for FPGAs
+- UART, ADC, DMA, and wireless communication interfaces
+
+### Software Tools and Simulation
+- MATLAB/Simulink, PSIM, LTspice
+- Finite Element Method (FEM) simulations with Ansys Maxwell
+- Wolfram Mathematica, Mathcad
+- Slicing software for 3D printing: PrusaSlicer, OrcaSlicer, Bambu Studio
+- Inkscape for SVG editing and technical illustration
+- Mendeley for academic reference management
+
+### Programming and Application Development
+- Python (data analysis, automation, control applications)
+- Front-end: HTML, CSS
+- Back-end: Python-based APIs (Flask, FastAPI, etc.)
+- JupyterLab for research and development workflows
+
+### Additional Technologies
+- LaTeX (TeXstudio) for scientific writing
+- Git and GitHub for version control
+- Docker and containerization (basic usage and structure understanding)
+
 
 
 <!-- ## Education
